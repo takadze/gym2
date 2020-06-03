@@ -1,0 +1,370 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.first-container{
+    background-image: url(../img/img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 610px;
+    width: 100%;
+}
+    
+.my-nav{
+    background-color: rgba(255,255,255,0.1);
+    padding: 9px;
+  
+}
+.my-link{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+.my-ul{
+    margin-right: 65px;
+}
+.my-li{
+   padding: 7px 2px;  
+}
+.my-logo{
+    padding-left: 35px;
+    padding-bottom: 5px;
+    margin: 0;
+    height: 54px;
+    position: relative;
+    vertical-align: middle;
+    border-style: none;
+    
+}
+.yelow-cub{
+    height: 42px;
+    width: 38px;
+    color:  #ff8013;
+    background: #ff8013;
+    border-color: #ff8013;
+    margin-left:  40px;   
+}
+.my-row{
+    position: absolute;
+    display: block;
+    width: 373px;
+    height: 200px;
+    animation-name: example1;
+    animation-duration:0.5s;
+}
+.body-text-and-img{
+    margin-top: 240px;
+}
+.body-text{
+ padding-left: 50px;
+ margin-top: -23px;
+ line-height: 1.2;
+}
+.body-text h2{
+     color: white;
+     font-size: 40px;
+     font-weight: 600;
+     line-height: 1,2;
+}
+.body-text p{
+    color:  #ff8013;
+    font-size: 36px;
+    font-weight: 500;
+}
+.img2{
+    float: right;
+   margin-top: -55px;
+ 
+}
+.link{
+    position: absolute;
+    margin-top: 30px;
+}
+.link a{
+    color: white;
+    text-decoration: none;
+    border: 1px solid #5c3c21;
+    justify-content: center;
+    padding: 12px 28px;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 13px;
+}
+
+.img-and-text-background{
+    background-image: url(https://www.free-css.com/assets/files/free-css-templates/preview/page254/fox/assets/images/about-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 336px;
+  
+}
+.img-and-text-div{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text-div{
+    max-width: 580px;
+    padding: 15px;
+    animation-name: example2;
+    animation-duration: 0.5s;
+}
+
+.text-div h1{
+    color:  #ff8013;
+    border-bottom: 5px solid #ff8013; max-width: 100px;
+    padding-bottom: 15px;
+}
+
+.text-div p{
+    font-weight: 600;
+}
+
+.img-div{
+    position: relative;
+    margin-top: -40px;
+    margin-left: 140px;
+    animation-name: example3;
+    animation-duration: 0.5s;
+}
+
+.ebout-uc-container{
+    background-image: url(../img/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 740px;
+    width: 100%;
+}
+.ebout-uc-row{
+    float: right;
+    max-width: 600px;
+   margin-top: 35px;
+   animation-name: example4;
+   animation-duration: 1.0s;
+}
+.ebout-uc-text h3{
+    color: #ff8013;
+    font-size: 43px;
+    border-bottom: 5px solid white; width: 230px; padding: 10px 0px;
+}
+.ebout-uc-text p{
+    color: white;
+    max-width: 550px;
+}
+.ebout-uc-text a{
+    color: white;
+    text-decoration: none;
+    border: 1px solid #5c3c21;
+    justify-content: center;
+    padding: 12px 28px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.imge-div2{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.firstimg{
+    margin-top: -270px;
+    position: relative;
+    animation-name: example5;
+    animation-duration: 0.5s;
+}
+.firstimg img{
+    margin-top: -270px;
+   width: 460px;
+}
+.moreimg{
+   display: block;
+   position: relative;
+   max-width: 650px;
+   margin-top: -403px;
+}
+.moreimg p{
+    padding: 130px 20px;
+    text-align: center;
+    background-image: url(../img/img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 280px;
+    color: white;
+    animation-name: example6;
+    animation-duration: 0.5s;
+}
+.backgroundda{
+    background: rgb(90, 90, 90);
+    height: 1140px;
+    padding-top: 330px;
+    margin-top: -404px;
+}
+
+
+.blackbody{
+    background-color: black;
+    padding: 50px 80px;
+    border-top: 10px solid #ff8013; width: 100%;
+    border-bottom: 10px solid #ff8013; width: 100%;
+}
+.trainers{
+    color: white;
+    text-align: center;
+    margin-bottom: -70px;
+}
+
+.my-card-row{
+    background-image: url(https://www.free-css.com/assets/files/free-css-templates/preview/page254/fox/assets/images/gym2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px 5px;
+    height: 650px;
+    margin: 0 auto;
+}
+.my-cardd{
+   margin: 0 auto;
+}
+.imagecard{
+    height: 250px;
+    width: 250px;
+    border-radius: 500px;
+    text-align: center;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    animation-name: example7;
+    animation-duration: 0.5s;
+}
+.my-card-h5-p{
+    width: 430px;
+    text-align: center;
+    padding: 24px;
+    background: rgb(241, 239, 239);
+    border-radius: 15px;
+    color: black;
+    animation-name: example8;
+    animation-duration: 0.5s;
+}
+
+.samkutxedi{
+    color: rgb(241, 239, 239);
+    margin-top: -95px;
+}
+
+.my-album-background{
+    background: rgb(90, 90, 90);
+    height: 10000px;
+}
+
+.my-album{
+    display: grid;
+    grid-template-columns: 360px 360px 360px;
+    grid-gap: 10px 30px;
+    max-width: 100%;
+    justify-content: center;
+    margin: 0 auto;
+    
+}
+
+.grid-cube{
+    background-color: #ff8013;
+    position: relative;
+    box-sizing: border-box;
+}
+.yelov-text{
+  height: 200px;
+  padding: 20px;
+}
+.yelov-text h3{
+    color: white;
+}
+.yelov-text p{
+    font-size: 16px;
+    font-weight: 700;
+}
+.imagecube1{
+   margin-top: -380px;
+}
+.imagecube img{
+    height: 100%;
+    width: 100%;
+}
+.imagecube1 img{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+
+@keyframes example1 {
+    from {transform: translatey(-800px);}
+    to{transform: translatey(10px);}
+}
+@keyframes example2 {
+    from {transform: translatex(-800px);}
+    to{transform: translatex(10px);}
+}
+@keyframes example3 {
+    from {transform: translatey(-800px);}
+    to{transform: translatey(10px);}
+}
+@keyframes example4 {
+    from {transform: translatex(-800px);}
+    to{transform: translatex(10px);}
+}
+@keyframes example5 {
+    from {transform: translatex(-800px);}
+    to{transform: translatex(10px);}
+}
+@keyframes example6 {
+    from {transform: translatey(-800px);}
+    to{transform: translatex(10px);}
+}
+@keyframes example7 {
+    from {transform: translatex(-800px);}
+    to{transform: translatex(20px);}
+}
+@keyframes example8 {
+    from {transform: translatey(-800px);}
+    to{transform: translatex(20px);}
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 576px) {
+    .grid-cube{
+        grid-template-columns: auto;
+    }
+}
+@media screen and (min-width: 768px) {
+    .grid-cube{
+        grid-template-columns: auto auto;
+    }
+}
+@media screen and (min-width: 992px) {
+    .grid-cube{
+        grid-template-columns: auto auto auto;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .grid-cube{
+        grid-template-columns: auto auto auto;
+    }
+}
